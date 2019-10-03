@@ -1,5 +1,7 @@
 {
     "granularity": "daily",
+	"maxAnomalyRatio": 0.1,
+    "sensitivity": 85,
     "series": [
       {
         "timestamp": "2019-03-25T00:00:00Z",
