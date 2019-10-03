@@ -2,12 +2,20 @@
     "granularity": "daily",
     "series": [
       {
+        "timestamp": "2019-03-25T00:00:00Z",
+        "value": 2653
+      },
+      {
+        "timestamp": "2019-03-26T00:00:00Z",
+        "value": 3544
+      },
+      {
         "timestamp": "2019-03-27T00:00:00Z",
-        "value": 3425
+        "value": 7425
       },
       {
         "timestamp": "2019-03-28T00:00:00Z",
-        "value": 7342
+        "value": 3342
       },
       {
         "timestamp": "2019-03-29T00:00:00Z",
@@ -15,7 +23,7 @@
       },
       {
         "timestamp": "2019-03-30T00:00:00Z",
-        "value": 3582
+        "value": 2582
       },
       {
         "timestamp": "2019-03-31T00:00:00Z",
@@ -27,7 +35,7 @@
       },
       {
         "timestamp": "2019-04-02T00:00:00Z",
-        "value": 3195
+        "value": 1195
       },
       {
         "timestamp": "2019-04-03T00:00:00Z",
@@ -51,7 +59,7 @@
       },
       {
         "timestamp": "2019-04-08T00:00:00Z",
-        "value": 6555
+        "value": 7555
       },
       {
         "timestamp": "2019-04-09T00:00:00Z",
@@ -79,7 +87,7 @@
       },
       {
         "timestamp": "2019-04-15T00:00:00Z",
-        "value": 1614
+        "value": 2614
       },
       {
         "timestamp": "2019-04-16T00:00:00Z",
